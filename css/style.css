@@ -1,0 +1,31 @@
+.jumbotron{
+  
+  font-family:'Montserrat';
+  padding:20px;
+  margin : 0 auto;
+  height: 100vh;
+  background-color: #3F51B5;
+  
+}
+
+#button_holder{
+  text-align:center;
+  margin-top:25px;
+  display: inline;
+}
+
+
+
+.styling{
+  margin: 0 auto;
+}
+
+#quote_holder{
+  margin-top:100px;
+}
+
+.quote_name::first-letter{
+  font-size:50px;
+}
+
+
